@@ -1,5 +1,5 @@
 # Dia landing page
-- [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?node-id=0%3A1)
+- [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))
 
 - [DEMO LINK](https://kengat.github.io/dia-landing/)
 
